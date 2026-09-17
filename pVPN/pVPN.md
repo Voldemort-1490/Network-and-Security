@@ -274,4 +274,4 @@ ipconfig /flushdns
 
 ---
 
-*This README covers the operational build and troubleshooting history of the pVPN infrastructure. See the accompanying formatted documentation report for the full phase-by-phase engineering write-up.*
+The full Write-up: [pVPN_Technical_Documentation.pdf](https://github.com/user-attachments/files/32324459/pVPN_Technical_Documentation.pdf)
